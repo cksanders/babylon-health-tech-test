@@ -1,0 +1,22 @@
+.checkbox > * {
+    vertical-align: middle;
+}
+
+.checkbox-checked {
+    width: 200px;
+    height: 50px;
+    background: url('images/icons-checked-checkbox.png') no-repeat;
+}
+
+.checkbox-unchecked {
+    width: 200px;
+    height: 50px;
+    background: url('images/icons-unchecked-checkbox.png') no-repeat;
+}
+
+label {
+    display: inline-block;
+    margin: 0;
+    width: 100px;
+    text-align: left;
+}
